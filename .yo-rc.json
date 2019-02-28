@@ -1,0 +1,19 @@
+{
+  "generator-presento": {
+    "packageVersion": "0.0.0",
+    "revealTheme": "black",
+    "deployToGithubPages": true,
+    "githubRepository": "vim-basic",
+    "dockerize": false,
+    "promptValues": {
+      "githubUsername": "opodartho",
+      "author": "Zahidul Haque",
+      "email": "iisowrovii@gmail.com"
+    },
+    "presentationTitle": "vim basic",
+    "presentationDescription": "",
+    "githubUsername": "opodartho",
+    "author": "Zahidul Haque",
+    "email": "iisowrovii@gmail.com"
+  }
+}
